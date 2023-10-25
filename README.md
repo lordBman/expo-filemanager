@@ -16,7 +16,7 @@ Files managed by the app are kept within app's folder therefore they are not exp
 Here are some other features:
 
 * A simple built-in web browser
-* Transfer files from your PC through web sockets. (Socket app repo => https://github.com/martymfly/file-transfer-expo)
+* Transfer files from your PC through web sockets. (Socket app repo => https://github.com/lordBman/expo-filemanager)
 * Darkmode - Lightmode
 * Passcode protection
 * Unlock with biometrics
@@ -26,30 +26,30 @@ Here are some other features:
 </div>
 
 <div align="center">
-<img src="https://github.com/martymfly/expo-file-manager/blob/main/screenshots/1.png" height="500"/>
-<img src="https://github.com/martymfly/expo-file-manager/blob/main/screenshots/2.png" height="500"/>
-<img src="https://github.com/martymfly/expo-file-manager/blob/main/screenshots/3.png" height="500"/>
+<img src="https://github.com/lordBman/file-transfer-api/blob/main/screenshots/1.png" height="500"/>
+<img src="https://github.com/lordBman/file-transfer-api/blob/main/screenshots/2.png" height="500"/>
+<img src="https://github.com/lordBman/file-transfer-api/blob/main/screenshots/3.png" height="500"/>
 </div>
 </br>
 </br>
 <div align="center">
-<img src="https://github.com/martymfly/expo-file-manager/blob/main/screenshots/4.png" height="500"/>
-<img src="https://github.com/martymfly/expo-file-manager/blob/main/screenshots/5.png" height="500"/>  
-<img src="https://github.com/martymfly/expo-file-manager/blob/main/screenshots/6.png" height="500"/>
+<img src="https://github.com/lordBman/file-transfer-api/blob/main/screenshots/4.png" height="500"/>
+<img src="https://github.com/lordBman/file-transfer-api/blob/main/screenshots/5.png" height="500"/>  
+<img src="https://github.com/lordBman/file-transfer-api/blob/main/screenshots/6.png" height="500"/>
 </div>
 </br>
 </br>
 <div align="center">
-<img src="https://github.com/martymfly/expo-file-manager/blob/main/screenshots/7.png" height="500"/>
-<img src="https://github.com/martymfly/expo-file-manager/blob/main/screenshots/8.png" height="500"/>
-<img src="https://github.com/martymfly/expo-file-manager/blob/main/screenshots/9.png" height="500"/>
+<img src="https://github.com/lordBman/file-transfer-api/blob/main/screenshots/7.png" height="500"/>
+<img src="https://github.com/lordBman/file-transfer-api/blob/main/screenshots/8.png" height="500"/>
+<img src="https://github.com/lordBman/file-transfer-api/blob/main/screenshots/9.png" height="500"/>
 </div>
 
 ### Run project in development
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/martymfly/expo-file-manager
+   git clone https://github.com/lordBman/file-transfer-api
    ```
 2. Install dependencies
    ```sh
